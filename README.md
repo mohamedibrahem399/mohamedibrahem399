@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohamedibrahem399
 - 👀 I’m interested in digital ic design, embedded systems , c, python
-- 🌱 I’m currently learning electriical and communication engineering
+- 🌱 I’m currently learning electrical and communication engineering at Alexandria univerisity
 - 💞️ I’m looking to collaborate on verilog, python ,system verilog and c projects
 - 📫 How to reach me , you can contact with me with my email mohamedibrahem399@gmail.com 
   or you can contact with me throw my facebook profile
